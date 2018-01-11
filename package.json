@@ -1,5 +1,5 @@
 {
-  "name": "nodebb-plugin-write-api",
+  "name": "nodebb-plugin-write-api-tmnl",
   "version": "5.1.0",
   "description": "Write-enabled API for NodeBB",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/julianlam/nodebb-plugin-write-api"
+    "url": "https://github.com/danieleisenhardt/nodebb-plugin-write-api"
   },
   "keywords": [
     "nodebb",
@@ -18,12 +18,12 @@
     "REST",
     "JSON"
   ],
-  "author": "Julian Lam <julian@nodebb.org>",
+  "author": "Daniel Eisenhardt <eisenhardtdaniel@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/julianlam/nodebb-plugin-write-api/issues"
+    "url": "https://github.com/danieleisenhardt/nodebb-plugin-write-api/issues"
   },
-  "homepage": "https://github.com/julianlam/nodebb-plugin-write-api",
+  "homepage": "https://github.com/danieleisenhardt/nodebb-plugin-write-api",
   "dependencies": {
     "express": "^4.12.0",
     "jsonwebtoken": "^5.0.4",
